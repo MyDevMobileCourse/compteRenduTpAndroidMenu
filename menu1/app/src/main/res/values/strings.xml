@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">menu1</string>
+    <string name="menu_search">Menu search</string>
+    <string name="menu_exit">Menu exit</string>
+</resources>

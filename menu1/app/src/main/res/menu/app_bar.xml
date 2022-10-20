@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ActionBar="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_search"
+        android:title="@string/menu_search"
+        android:icon="@android:drawable/ic_menu_search"
+        ActionBar:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/menu_exit"
+        android:title="@string/menu_search"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        ActionBar:showAsAction="ifRoom|withText"/>
+</menu>
